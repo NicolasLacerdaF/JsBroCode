@@ -6,7 +6,7 @@
 // 2. assignment    x = 100;
 
 let x;
-x = 100;
+x = 1000000000000;
 
 console.log(x);
 
